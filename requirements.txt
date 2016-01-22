@@ -1,0 +1,5 @@
+Django==1.8.5
+django-suit==0.2.16
+django-tinymce==2.2.0
+Pillow==3.0.0
+wheel==0.24.0
